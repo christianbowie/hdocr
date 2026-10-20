@@ -29,7 +29,7 @@ dependencies = [
     "azure-identity>=1.17",
     "azure-data-tables>=12.5",
     "azure-storage-blob[aio]>=12.20",
-    "aiohttp>=3.9",
+    "aiohttp>=3.14.4",
     "posthog>=7.16.3",
 ]
 
